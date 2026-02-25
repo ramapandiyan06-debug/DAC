@@ -1,4 +1,4 @@
-# DAC
+
  INTERFACING DAC WITH 8086 KIT AND GENERATING SAWTOOTH AND SQUARE WAVEFORMS
 
 ## AIM
@@ -85,9 +85,11 @@ To write an assembly language program in 8086 to generate Sawtooth and Square wa
 
 ## Model Graph
 Square Wave
+<img width="1280" height="686" alt="553334749-b4416ced-059a-4b18-916d-c2c84903a4d2" src="https://github.com/user-attachments/assets/4df515dc-80ee-491c-843e-4dec17d24324" />
 
 Sawtooth Wave
 
+<img width="1280" height="730" alt="553334822-d15b554f-a5fe-49e0-b87e-005fc2b04af2" src="https://github.com/user-attachments/assets/453b3c21-90eb-4a17-825b-480545e45f95" />
 
 
 
